@@ -1,0 +1,14 @@
+headr{
+    color:red;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    padding-right: 15px;
+}
+footer{ 
+    margin-top: 15px ;
+    border-top: 1px gray solid;
+    color: gray;
+}
